@@ -1,0 +1,8 @@
+Comedy 1978 87 Jak dostat tatinka do polepsovny
+Comedy 2001 87 Shrek
+Comedy 2004 82 Shrek 2
+Comedy 2007 56 Shrek The Third
+Comedy 2010 63 Shrek 4 Zvonec a konec
+Drama 1994 95 The Shawshank Redemption
+Romantic 1997 85 Titanic
+Sci-fi 2009 82 Avatar

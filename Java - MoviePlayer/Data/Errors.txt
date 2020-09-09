@@ -1,0 +1,89 @@
+Login Error 2020-05-27T18:19:37.635518700
+Login Error 2020-05-27T18:19:46.291049900
+File Not Found data\Accounts.txt 2020-05-27T18:43:02.532596300
+Genre not found  asd 2020-05-27T19:07:06.557213200
+Error during login  kappaaa 2020-05-27T21:22:04.865121
+File not found   Shrek 2020-05-27T21:31:40.151336700
+File not found   Shrek 2020-05-27T21:33:19.509779
+File not found   Shrek 2020-05-27T21:37:51.659494500
+File not found   Shrek 2020-05-27T21:40:08.874656100
+File not found   Shrek 2020-05-27T21:41:42.951059800
+File not found   Shrek 2020-05-27T21:42:41.273868700
+File not found   Shrek 2020-05-27T21:46:01.069731600
+File not found   Titanic 2020-05-27T22:15:03.937493200
+Genre not found  sasd 2020-05-27T22:22:04.632206200
+Error during login  Jirkja 2020-05-27T22:37:16.881762100
+Error during login  Jirka 2020-05-27T22:41:28.528545700
+Wrong rating 2020-05-27T22:43:33.548350900
+Error during login  Jirka 2020-05-27T22:47:10.923134400
+Genre not found  asd 2020-05-27T22:47:41.813268100
+Wrong rating 2020-05-27T22:47:41.813268100
+Year has to be a number 2020-05-27T22:47:41.813268100
+Year has to be a number 2020-05-27T22:47:41.813268100
+Year has to be a number 2020-05-27T22:47:41.813268100
+Year has to be a number 2020-05-27T22:49:36.275675200
+Error during login  jama 2020-05-28T00:20:29.983947200
+Error during login  jama 2020-05-28T00:21:02.303511100
+Error during login  jama 2020-05-28T00:21:13.620921800
+Error during login  jama 2020-05-28T00:21:13.620921800
+Error during login  jama 2020-05-28T00:23:15.815306700
+Error during login  jama 2020-05-28T00:49:25.584654600
+Error during login  jama 2020-05-28T01:18:49.399667700
+Error during login  jama 2020-05-28T01:18:49.399667700
+Error during login  jama 2020-05-28T01:30:39.386989
+Error during login  jama 2020-05-28T01:30:39.386989
+Error during login  jama 2020-05-28T01:30:39.386989
+Error during login  jama 2020-05-28T01:30:39.386989
+Error during login  jama 2020-05-28T01:30:39.386989
+Error during login  jama 2020-05-28T01:30:39.386989
+Error during login  jama 2020-05-28T01:30:39.386989
+Error during login  jama 2020-05-28T01:30:39.386989
+Error during login  jama 2020-05-28T01:30:39.386989
+Error during login  jama 2020-05-28T01:30:39.386989
+Error during login  jama 2020-05-28T01:30:39.386989
+Error during login  jama 2020-05-28T01:31:31.820926100
+Error during login  jama 2020-05-28T01:32:06.397443400
+Error during login  jama 2020-05-28T01:36:13.196590700
+Error during login  jama 2020-05-28T01:39:58.974461500
+Error during login  jama 2020-05-28T01:46:37.029686500
+Error during login  jama 2020-05-28T01:46:37.029686500
+Error during login  jama 2020-05-28T01:47:26.608033100
+Error during login  jama 2020-05-28T01:50:11.968906800
+Error during login  jama 2020-05-28T01:50:41.787251300
+Error during login  jama 2020-05-28T01:51:29.115036400
+Error during login  jama 2020-05-28T01:52:29.402088700
+Error during login  jama 2020-05-28T01:53:11.267563700
+Error during login  jama 2020-05-28T01:53:45.800303100
+Error during login  jama 2020-05-28T01:54:09.065582900
+Error during login  jama 2020-05-28T01:54:41.369670300
+Error during login  jama 2020-05-28T01:56:45.464005
+Error during login  jama 2020-05-28T01:58:31.231023200
+Error during login  jama 2020-05-28T01:59:19.454188600
+Error during login  jama 2020-05-28T01:59:30.089865500
+File not found   Jak dostat tatinka do polepsovny 2020-05-28T02:03:36.255384800
+Error during login  0 2020-05-28T02:32:24.169758100
+Wrong user argument  p 2020-05-28T03:01:08.331818200
+Wrong rating 2020-05-28T16:31:30.714029900
+Error during login  keepo 2020-05-28T16:36:17.330184500
+Wrong user argument  p 2020-05-28T17:40:09.745896100
+Wrong user argument  p 2020-05-28T17:40:09.745896100
+Wrong user argument  p 2020-05-28T17:40:09.745896100
+Error during login  keepo 2020-05-28T18:21:58.761991400
+IOException Improve status 2020-05-28T18:56:24.459674900
+File not found  data\Accounts1.txt 2020-05-28T19:09:19.909075200
+File not found  data\Accounts1.txt 2020-05-28T19:13:55.828626200
+File not found  data\Accounts1.txt 2020-05-28T19:15:27.631672300
+File not found  data\Accounts1.txt 2020-05-28T19:18:28.112611300
+Scanner error loadUserData 2020-05-28T19:18:28.112611300
+Error during login  Test 2020-05-28T19:18:28.112611300
+Error during login  asd 2020-06-03T19:29:16.420617500
+Error during login  kaka 2020-06-03T19:32:54.071425500
+Old password was incorrect 2020-06-03T19:32:54.072422300
+Genre not found  asdasd 2020-06-03T19:55:03.264522500
+Error during login  jana 2020-06-03T20:11:12.771799900
+Error during login  asd 2020-07-08T16:42:40.826477
+Error during login  pepega 2020-07-09T00:05:25.159401300
+Error during login  asd 2020-09-01T08:07:57.190714800
+IOException Improve status 2020-09-01T08:07:57.190714800
+Genre not found  sasdasdas 2020-09-01T10:46:57.584722500
+Genre not found  kjonoi 2020-09-01T10:47:38.565063700
